@@ -2,6 +2,6 @@
 ![](https://badgen.net/badge/code/etaCV/blue)
 <img src="https://visitor-badge.glitch.me/badge?page_id=gongyeheyu" />
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gongyeheyu&theme=xcode" /> </div>
+<img src="https://activity-graph.herokuapp.com/graph?username=gongyeheyu&theme=xcode" />
 [![](https://github-readme-stats.vercel.app/api?username=gongyeheyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gongyeheyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
