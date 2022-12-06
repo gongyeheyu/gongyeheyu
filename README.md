@@ -1,5 +1,5 @@
 ![](https://badgen.net/badge/Designer/GONGYE%20Heyu/blue)
-![](https://badgen.net/badge/code/etaCV/blue)  
+![](https://badgen.net/badge/code/etaCV/blue)
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=gongyeheyu" />
 
 [![](https://github-readme-stats.vercel.app/api?username=gongyeheyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
