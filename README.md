@@ -1,4 +1,4 @@
-江泽民同志永垂不朽！  
+[//]: 江泽民同志永垂不朽！  
 ![](https://badgen.net/badge/Designer/GONGYE%20Heyu/blue)
 ![](https://badgen.net/badge/code/etaCV/blue)
 <img src="https://visitor-badge.glitch.me/badge?page_id=gongyeheyu" />
